@@ -1,0 +1,15 @@
+td {
+    width: 15px;
+    height: 15px;
+}
+.verde {
+    background-color: lime;
+}
+
+.rojo {
+    background-color: red;
+}
+
+.azul {
+    background-color: blue;
+}

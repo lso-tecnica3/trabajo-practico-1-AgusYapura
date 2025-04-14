@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: large;
+}
+
+th{
+    background-color: rgb(121, 189, 206);
+    text-align: center;
+    padding: 10px;
+}
+
+td{
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+}
+
+.X{
+    
+    background-color: rgb(121, 189, 206);
+
+}
+
+
